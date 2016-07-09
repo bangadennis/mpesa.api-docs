@@ -1,5 +1,5 @@
 # mpesa.api-docs
-A web-based Mpesa API Documentation
+A web-based Mpesa API Documentation - http://mpesa-api-docs.readthedocs.org
 
 # Tools
 Sphinx
